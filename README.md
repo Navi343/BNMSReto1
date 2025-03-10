@@ -9,4 +9,5 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 
 ## Tecnologías
 - Java SpringBoot
-Esta es la rama QA
+Esta es la rama QA y Esta es la rama develop
+
